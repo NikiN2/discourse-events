@@ -1,0 +1,30 @@
+ru:
+  js:
+    add_event:
+      btn_label: "{{iconHtml}} Добавить дату и время"
+      modal_title: Дата и время
+      event_start: Начало
+      event_end: Окончание
+      event_date: Дата
+      event_time: Время
+      event_add: Добавить
+      event_clear: Очистить
+    category:
+      enable_events: "Разрешить добавлять события к темам в этой категории"
+    composer:
+      tip:
+        add_event: "Добавить дату, время и место для вашего мероприятия."
+    event_list:
+      title: '{{categoryName}} события'
+      about: 'События в округе'
+      no_results: "Нет предстоящих событи"
+      create: "Создать событие"
+    filters:
+      agenda:
+        title: "Программа"
+        help: "Список событий в восходящем хронологическом порядке в соответствии с датой начала."
+    add_to_calendar:
+      label: "Добавить в календарь"
+      google: "Google Calendar"
+      ics: ".ics файл"
+      default_details: "Подробности: {{url}}"
