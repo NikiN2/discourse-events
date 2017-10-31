@@ -1,0 +1,7 @@
+ru:
+  site_settings:
+    events_add_to_calendar: "Показать кнопку «Добавить в календарь» в тематических разделах"
+    events_event_label_icon: "Класс для иконок событий"
+    events_event_label_format: "<a href='http://momentjs.com/docs/#/displaying/format/'>Moment.js</a> format for event label."
+    events_event_label_short_format: "<a href='http://momentjs.com/docs/#/displaying/format/'>Moment.js</a> format for short event label used in topic lists."
+    events_remove_past_from_map: "Удаление прошлых событий из списков карт, сгенерированных <a href='https://github.com/angusmcleod/discourse-locations'>locations plugin</a>."
